@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-PROJECT.pages.dev/sitemap.xml
+Sitemap: https://index-pages.anderskirkebyd.workers.dev/sitemap.xml
 
